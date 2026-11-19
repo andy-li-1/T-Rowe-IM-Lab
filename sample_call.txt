@@ -1,0 +1,11 @@
+Advisor: Thanks for joining. Let's go over your 2025 taxes. Are you still filing jointly with your spouse?
+Client: Yes, married filing jointly, same as last year. We're in Massachusetts.
+Advisor: Great. What did your W-2 show?
+Client: My salary was about 142,000. My wife made around 98 thousand.
+Advisor: Any other income?
+Client: We had maybe 1,200 in interest from our savings account.
+Advisor: And deductions — mortgage, charitable giving?
+Client: Mortgage interest was 18,400. We gave about 3,000 to charity, I'd have to check the receipts.
+Advisor: Kids still at home?
+Client: Yes, our son Ethan is 12.
+Advisor: Okay, I'll need those charity receipts before we finalize.
