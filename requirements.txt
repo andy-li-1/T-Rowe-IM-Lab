@@ -1,0 +1,5 @@
+openai>=1.40      # generic client for OpenAI-compatible endpoints (Gemini, Groq, Ollama)
+pydantic>=2.8
+streamlit>=1.40   # web UI
+pandas>=2.0
+pytest
